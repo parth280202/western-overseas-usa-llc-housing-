@@ -128,7 +128,8 @@ header {
 }
 
 .logo img {
-    width: 180px;
+    width: 150px;
+    border-radius: 20px;
 }
 
 .menu a {
